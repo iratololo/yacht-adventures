@@ -1,0 +1,33 @@
+:root {
+
+    /*____________________COLOR___________________________*/
+    --iris: #4d5ae5;
+    --ocean: #404bbf;
+    --navyBlue: #2e2f42;
+    --green: #31d0aa;
+    --slate: #434455;
+    --lightSlate: #8E8F99;
+    --cornflower: #E7E9FC;
+    --cloud: #F4F4FD;
+    --navyBlueModal: rgba(46, 47, 66, 0.4);
+    --grey: #2e2f42b3;
+    --white: #ffffff;
+    --dairy: #FCFCFC;
+
+    /*____________________FONTS___________________________*/
+
+    --logoFont: "Raleway", sans-serif;
+
+
+    /*____________________ANIMATION___________________________*/
+
+    --duration: 250ms;
+    --timingFunction: cubic-bezier(0.4, 0, 0.2, 1);
+
+
+    /*____________________FLEX___________________________*/
+    --items: 3;
+    --indent-column: 24px;
+    --indent-row: var(--indent-column);
+
+}
